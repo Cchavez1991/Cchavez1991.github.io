@@ -1,0 +1,30 @@
+
+.bg-green{
+    background-color: #28a745;
+    font-family: Roboto;
+    font-weight: 300;
+}
+.row {
+    font-family:Roboto ;
+    justify-content: start;
+}
+.card h5{
+    color:#212529
+}
+.card p {
+    color: #707070;
+}
+.card .precio2 {
+    color: #28a745;
+    font-weight: 500;
+}
+.card img{
+    width: 278px;
+    height: 180px;
+}
+.text-gris {
+    color: #707070;
+}
+.text-white {
+    color: white;
+}
